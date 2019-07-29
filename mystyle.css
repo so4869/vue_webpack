@@ -1,0 +1,17 @@
+h1{
+    color: #22b8cf;
+    background: #20c997;
+}
+
+#back1{
+    width: 320px;
+    height: 180px;
+    background-image: url("img/maxresdefault.jpg");
+    background-size: contain;
+}
+#back2{
+    width: 320px;
+    height: 180px;
+    background-image: url("img/answodls.jpg");
+    background-size: contain;
+}
